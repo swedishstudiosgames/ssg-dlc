@@ -1,0 +1,5 @@
+connect to open server:
+sudo -s; cd /home/server
+screen -r
+
+ctrl + A + D
